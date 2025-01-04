@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"models","l":"Blackjack"},{"p":"gui","l":"Login"},{"p":"gui","l":"Main"},{"p":"controllers","l":"MainController"},{"p":"models","l":"MongoDBSingleton"},{"p":"controllers","l":"Principal"},{"p":"models","l":"Utils"}];updateSearchResults();
